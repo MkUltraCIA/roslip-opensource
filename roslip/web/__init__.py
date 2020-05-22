@@ -3,13 +3,12 @@ import os
 from flask import Flask, make_response, jsonify
 from pathlib import Path
 from redis import Redis
+from roslip.db import get_db
 import time
 import json
 
 # database
-db = Redis(os.environ["REDIS_URI"],
-           os.environ["REDIS_PORT"],
-           password=os.environ["REDIS_PW"])
+db = get_db()
 
 # app
 app = Flask(__name__)
