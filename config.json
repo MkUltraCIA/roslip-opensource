@@ -1,0 +1,6 @@
+{
+  "REDIS_URI": "x.redislabs.com",
+  "REDIS_PORT": 14785,
+  "REDIS_PW": "x",
+  "NEXTZEN": "x"
+}
