@@ -1,0 +1,1 @@
+web: gunicorn --workers=4 roslip.web:app

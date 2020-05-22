@@ -1,0 +1,9 @@
+grequests
+requests[socks]
+lxml
+flask
+shapely
+numpy
+redis
+gunicorn
+diskcache
