@@ -1,4 +1,4 @@
-https://www.roblox.com/games/5003800258/City-Explorer
+https://www.roblox.com/games/5068979318/City-Explorer-OPEN-SOURCE
 
 RoSlip - City Explorer Demo
 ===========================
@@ -119,7 +119,7 @@ If this is successful, the web server will be running locally at `localhost:3000
 Part 4 - Configuring the Game
 ------
 
-To get your copy of the game, visit https://www.roblox.com/games/5003800258/City-Explorer and click
+To get your copy of the game, visit https://www.roblox.com/games/5068979318/OPEN-SOURCE and click
 the three dots in the top right, then click Edit. This should open the place in Studio.
 
 Only one value needs to be configured in the game for it to work - the Web Server URL. To do this,
